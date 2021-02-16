@@ -6,7 +6,7 @@ import About from "./pages/about/about";
 import Skills from "./pages/skills/skills";
 import Container from "react-bootstrap/Container";
 import TimeLine from "./components/projects-timeline/projects-timeline";
-import Experience from "./pages/experience/experience";
+//import Experience from "./pages/experience/experience";
 import Fade from "react-reveal/Fade";
 import Slide from "react-reveal/Slide";
 import ContactForm from "./pages/contact-form/contact-form";
@@ -55,7 +55,6 @@ const App = () => {
           <Fade duration={500}>
             <hr />
 
-            <Experience />
           </Fade>
         </Container>
       </div>
