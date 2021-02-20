@@ -3,7 +3,7 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import "./about.styles.css";
-import Profile from "../../assets/img/profile/OTABEKFOTO.jpg";
+import Profile from "../../assets/img/profile/otabek.jpg";
 import Image from "react-bootstrap/Image";
 import Button from "react-bootstrap/Button";
 
