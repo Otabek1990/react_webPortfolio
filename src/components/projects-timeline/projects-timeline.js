@@ -135,7 +135,7 @@ const TimeLine = () => {
                   SOURCE CODE
                 </UrlButton>
                 <UrlButton
-                  href="https://www.linkedin.com/posts/anand-kumar-jha-745798a4_react-materialui-fun-activity-6716765686963826688-GIpZ"
+                  href="https://www.linkedin.com/in/otabek-fozilov-689b2b1b3/"
                   target="_blank"
                 >
                   WATCH VIDEO
