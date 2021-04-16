@@ -41,13 +41,7 @@ const About = () => {
                       </Button>
                     </a>
                   </div>
-                  <div>
-                    <a href="" target="_blank" rel="noopener noreferrer">
-                      <Button className="m-2" variant="outline-success">
-                        My Resume
-                      </Button>
-                    </a>
-                  </div>
+                
                   <div>
                     <a href="https://github.com/Otabek1990" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-dark">
